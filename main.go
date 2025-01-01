@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// comment
 func main() {
 	fmt.Printf("ghp_Mer10tpSnrmwtypOhsD8CXNhOsp2fB3qQcoP")
 	fmt.Printf("AKIARYHCWRJF2TPDZTYF")
