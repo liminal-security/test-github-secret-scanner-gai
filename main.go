@@ -11,4 +11,6 @@ func main() {
 	fmt.Printf("ghp_Mer10tpSnrmwtypOhsD8CXNhOsp2fB3qQcoP")
 
 	fmt.Printf("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")
+
+	fmt.Printf("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")
 }
